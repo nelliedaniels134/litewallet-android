@@ -30,6 +30,7 @@ public class BRConstants {
      * Permissions
      */
     public static final int CAMERA_REQUEST_ID = 34;
+    public static final int GEO_REQUEST_ID = 35;
 
     /**
      * Request codes for auth
@@ -102,7 +103,7 @@ public class BRConstants {
 
     public static final String WEB_LINK = "https://litewallet.io";
     public static final String TOS_LINK = "https://litewallet.io/privacy";
-    public static String CUSTOMER_SUPPORT_LINK = "https://support.litewallet.io";
+    public static String CUSTOMER_SUPPORT_LINK = "https://support.litewallet.io/hc/en-us/requests/new";
     public static String BITREFILL_AFFILIATE_LINK = "https://www.bitrefill.com/";
 
     /**
